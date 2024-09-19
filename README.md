@@ -1,37 +1,54 @@
+## INSTRUCTIONS for New Contributors
 
+### 1. Getting Started
 
-## INSTRUCTIONS for this project for beginners -
+- [Fork](https://github.com/MAVRICK-1/First-pr/fork) this repository (Click the Fork button in the top right of this page, click your Profile Image)
+- You can make changes directly through Github or use your preferred code editor (like VSCode)
+- Clone your fork to your local machine
 
-## Getting started
+### 2. Add Your Profile Page
 
-- Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-- You can directly make changes through Github or you can use VScode and commit by following the steps below
-- Clone your fork down to your local machine
-
-### 2. Add a profile page
-
-Add a `Your_Name_Year_Roll.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
+Create a new file named `your_username.md` in the `profiles` directory. Use the following template to create your profile:
 
 ```markdown
-# Your Name
+# 👋 Hi there, I'm [Your Name]
 
-### Location
+## 🚀 About Me
+I'm a passionate software developer with a keen interest in [Your Interests, e.g., web development, machine learning, etc.]. I love turning ideas into reality through code and am always eager to learn new technologies.
 
-Your City/Country
+## 🛠 Skills
+- **Languages:** [e.g., JavaScript, Python, Java]
+- **Frontend:** [e.g., React, Vue.js, HTML, CSS]
+- **Backend:** [e.g., Node.js, Django, Flask]
+- **Databases:** [e.g., MongoDB, PostgreSQL, MySQL]
+- **Tools & Technologies:** [e.g., Git, Docker, AWS]
 
-### Academics
+## 🔭 Current Projects
+- [Project 1]: Brief description
+- [Project 2]: Brief description
 
-Your School
+## 🌱 I'm currently learning
+- [Technology or skill you're currently focusing on]
+- [Another area of interest]
 
-### Interests
+## 💼 Work Experience
+- **[Current Job Title]** at [Company Name] (Month Year - Present)
+- **[Previous Job Title]** at [Company Name] (Month Year - Month Year)
 
-- Some Things You Like
+## 🎓 Education
+- **[Degree]** in [Field of Study] from [University Name] (Year - Year)
 
-### Development
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-- Inventor of the My Pillow
 
-### Profile Link
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yourusername&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[Your Name](GitHub Link)
+## 📫 How to reach me
+- LinkedIn: [Your LinkedIn Profile URL]
+- Email: your.email@example.com
+- Twitter: [@YourTwitterHandle]
+
+⭐️ From [yourusername](https://github.com/yourusername)
 ```
